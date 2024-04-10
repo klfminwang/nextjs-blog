@@ -1,0 +1,9 @@
+{
+    "editor.fontSize": 17,
+    "editor.fontLigatures": false,
+    "editor.fontFamily": "'Azeret Mono Light', 'Noto Sans TC Light', monospace",
+    "editor.lineHeight": 1.5,
+    "debug.console.lineHeight": 1.5,
+    "editor.suggestLineHeight": 0,
+    "terminal.integrated.lineHeight": 1.5
+}
